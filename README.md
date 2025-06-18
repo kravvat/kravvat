@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Kacper Stec
 
-🎓 MTA-certified Junior QA / SQL Developer on a backend learning path.
+🎓 MTA-certified Junior QA / SQL Developer on a backend learning path.  
 Passionate about code that works, tests that catch, and data that makes sense.
 
 ---
@@ -23,8 +23,8 @@ Relational schema with real-world DDL, DML, and DQL usage. Focused on validation
 
 ### 📜 Certifications
 
-- Microsoft MTA: Security, Databases, Software Development, HTML5
-- Boot.dev: Backend Developer Path *(in progress)*
+- Microsoft MTA: Security, Databases, Software Development, HTML5  
+- Boot.dev: Backend Developer Path *(in progress)*  
   [boot.dev/u/kravvat](https://www.boot.dev/u/kravvat)
 
 ---
