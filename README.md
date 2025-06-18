@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Kacper Stec
 
-🎓 MTA-certified IT graduate focused on Quality Assurance, SQL development and backend fundamentals.
+🎓 MTA-certified Junior QA / SQL Developer on a backend learning path.
+Passionate about code that works, tests that catch, and data that makes sense.
 
 ---
 
