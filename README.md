@@ -14,10 +14,13 @@ Passionate about code that works, tests that catch, and data that makes sense.
 
 ---
 
-### 🗂 Featured Project
+### 🗂 Featured Projects
 
-📂 **[Movie Theater Database Design](https://github.com/kravvat/movie-theater-database-design)**  
-Relational schema with real-world DDL, DML, and DQL usage. Focused on validation, structure, and logic.
+🐍 **[BookBot](https://github.com/kravvat/bookbot)**  
+Python CLI that scans `.txt` books to count words and analyze character frequency. Highlights clean code and real-world file parsing.
+
+🐘 **[Movie Theater Database Design](https://github.com/kravvat/movie-theater-database-design)**  
+Relational schema with real-world DDL, DML, and DQL usage. Focused on data validation, structure, and logic.
 
 ---
 
@@ -45,7 +48,7 @@ Backend architecture and development practices using:
 
 ---
 
-## 🔗 Connect with me
+### 🔗 Connect with me
 
 - ⚔️ Boot.dev: [kravvat](https://www.boot.dev/u/kravvat)  
 - 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)  
