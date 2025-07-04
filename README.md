@@ -10,7 +10,7 @@
 
 ## 🛠️ What I Do
 
-- 🔍 Manual QA testing on [uTest](https://www.utest.com/), with 20+ approved defects and real client feedback  
+- 🔍 Manual QA testing on [uTest](https://www.utest.com/), with 40+ approved defects and real client feedback  
 - 🧮 SQL scripting & relational modeling (PostgreSQL / MySQL)  
 - 🧠 Agile/Scrum workflows with Git, Jira, and Perforce (used in real-world projects)  
 - 👨‍💻 Learning backend fundamentals (Python & TypeScript) to better understand application logic, support test automation, and improve test coverage  
