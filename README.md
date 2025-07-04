@@ -1,20 +1,27 @@
-### 👋 Hi, I'm Kacper Stec
+# 👋 Hi, I'm Kacper Stec
 
-🎓 MTA-certified Junior QA / SQL Developer on a backend learning path.  
-Passionate about code that works, tests that catch, and data that makes sense.
+🔍 Manual QA Tester | Aspiring QA Automation Engineer | Cybersecurity Enthusiast  
 
----
+🎓 MTA-certified with hands-on experience in testing, SQL, and backend fundamentals.  
 
-### 🔧 What I Do
-
-- 🔍 Manual QA testing on [uTest](https://www.utest.com/), with 20+ approved defects
-- 🛢️ SQL scripting & relational modeling (PostgreSQL/MySQL)
-- 💻 Agile/Scrum team workflows with Git, Jira, Perforce
-- 🎓 Learning backend development with Python & TypeScript
+💡 Passionate about code that works, tests that catch, and data that makes sense.
 
 ---
 
-### 🗂 Featured Projects
+## 🛠️ What I Do
+
+- 🔍 Manual QA testing on [uTest](https://www.utest.com/), with 20+ approved defects and real client feedback  
+- 🧮 SQL scripting & relational modeling (PostgreSQL / MySQL)  
+- 🧠 Agile/Scrum workflows with Git, Jira, and Perforce (used in real-world projects)  
+- 👨‍💻 Learning backend fundamentals (Python & TypeScript) to better understand application logic, support test automation, and improve test coverage  
+- 🔐 Pursuing the **Google Cybersecurity Professional Certificate** to build a strong foundation in security, risk management, and system hardening
+
+---
+
+## 🗂 Featured Projects
+
+🐍 **[Asteroids](https://github.com/kravvat/asteroids)**  
+2D space shooter game inspired by the original *Asteroids*. Developed in Python using Pygame. Showcases object-oriented programming, modular design, and group-based entity management.
 
 🐍 **[BookBot](https://github.com/kravvat/bookbot)**  
 Python CLI that scans `.txt` books to count words and analyze character frequency. Highlights clean code and real-world file parsing.
@@ -24,15 +31,17 @@ Relational schema with real-world DDL, DML, and DQL usage. Focused on data valid
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - Microsoft MTA: Security, Databases, Software Development, HTML5  
 - Boot.dev: Backend Developer Path *(in progress)*  
-  [boot.dev/u/kravvat](https://www.boot.dev/u/kravvat)
+  [boot.dev/u/kravvat](https://www.boot.dev/u/kravvat)  
+- Google: Cybersecurity Professional Certificate *(in progress)*  
+  [Google Cybersecurity on Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 Backend architecture and development practices using:
 - C
@@ -48,7 +57,7 @@ Backend architecture and development practices using:
 
 ---
 
-### 🔗 Connect with me
+## 🔗 Connect with me
 
 - ⚔️ Boot.dev: [kravvat](https://www.boot.dev/u/kravvat)  
 - 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)  
