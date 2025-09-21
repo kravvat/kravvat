@@ -2,9 +2,11 @@
 
 🔍 QA Engineer | ISTQB CTFL | Python Automation in Progress 
 
-🎓 ISTQB-certified QA Engineer with 2+ years of hands-on experience in manual testing and SQL databases in Agile/Scrum environments. 
+💡 Passionate about code that works, tests that catch, and data that makes sense 
 
-💡 Passionate about code that works, tests that catch, and data that makes sense.
+- ISTQB-certified QA Engineer with 2+ years of hands-on experience in manual testing and SQL databases in Agile/Scrum environments 
+- Previously 4+ years in GameDev, bringing strong collaboration in international teams, rigorous version control and disciplined delivery 
+- Currently building Python skills to introduce automation on real projects 
 
 ---
 
@@ -14,7 +16,6 @@
 - 🧮 SQL scripting & relational modeling (PostgreSQL / MySQL)  
 - 🧠 Agile/Scrum workflows with Git, Jira, and Perforce (used in real-world projects)  
 - 👨‍💻 Learning backend fundamentals (Python & TypeScript) to better understand application logic, support test automation, and improve test coverage  
-- 🔐 Pursuing the **Google Cybersecurity Professional Certificate** to build a strong foundation in security, risk management, and system hardening
 
 ---
 
@@ -33,11 +34,11 @@ Relational schema with real-world DDL, DML, and DQL usage. Focused on data valid
 
 ## 📜 Certifications
 
-- Microsoft MTA: Security, Databases, Software Development, HTML5  
+- ISTQB Foundation Level
+- Google Cybersecurity Professional Certificate 
+- Microsoft MTA: Security, Databases, Software Development, HTML5
 - Boot.dev: Backend Developer Path *(in progress)*  
   [boot.dev/u/kravvat](https://www.boot.dev/u/kravvat)  
-- Google: Cybersecurity Professional Certificate *(in progress)*  
-  [Google Cybersecurity on Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 ---
 
