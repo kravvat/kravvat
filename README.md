@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kacper Stec
 
-🔍 Manual QA Tester | Aspiring QA Automation Engineer | Cybersecurity Enthusiast  
+🔍 QA Engineer | ISTQB CTFL | Python Automation in Progress 
 
-🎓 MTA-certified with hands-on experience in testing, SQL, and backend fundamentals.  
+🎓 ISTQB-certified QA Engineer with 2+ years of hands-on experience in manual testing and SQL databases in Agile/Scrum environments. 
 
 💡 Passionate about code that works, tests that catch, and data that makes sense.
 
