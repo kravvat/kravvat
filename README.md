@@ -34,7 +34,7 @@ Relational schema with real-world DDL, DML, and DQL usage. Focused on data valid
 
 ## 📜 Certifications
 
-- ISTQB Foundation Level
+- ISTQB Certified Tester Foundation Level 
 - Google Cybersecurity Professional Certificate 
 - Microsoft MTA: Security, Databases, Software Development, HTML5
 - Boot.dev: Backend Developer Path *(in progress)*  
