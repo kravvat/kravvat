@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kacper Stec
+# 👋 Hi, I'm Kacper (Casper)
 
 🔍 QA Engineer | ISTQB CTFL | Automation in Progress 
 
@@ -10,19 +10,11 @@
 
 ---
 
-## 🛠️ What I Do
-
-- 🔍 Manual QA testing on [uTest](https://www.utest.com/), with 40+ approved defects and real client feedback  
-- 🧮 SQL scripting & relational modeling (PostgreSQL / MySQL)  
-- 🧠 Agile/Scrum workflows with Git, Jira, and Perforce (used in real-world projects)  
-- 👨‍💻 Learning backend fundamentals (Python & TypeScript) to better understand application logic, support test automation, and improve test coverage  
-
----
-
 ## 🗂 Featured Projects
 
-🐍 **[Asteroids](https://github.com/kravvat/asteroids)**  
-2D space shooter game inspired by the original *Asteroids*. Developed in Python using Pygame. Showcases object-oriented programming, modular design, and group-based entity management.
+🐍 **[nopCommerce Test Automation](https://github.com/kravvat/nopcommerce-automation)**  
+Selenium + Pytest UI suite for the e-commerce site covering admin login, add/search customer, and wishlist.  
+Uses Page Object Model, explicit waits, and data-driven tests.
 
 🐍 **[BookBot](https://github.com/kravvat/bookbot)**  
 Python CLI that scans `.txt` books to count words and analyze character frequency. Highlights clean code and real-world file parsing.
