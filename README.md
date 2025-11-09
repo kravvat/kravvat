@@ -37,12 +37,10 @@ Relational schema with real-world DDL, DML, and DQL usage. Focused on data valid
 ## 📚 Currently Learning
 
 Backend architecture and development practices using:
-- C
+- Git
 - SQL
 - Linux
-- Python
-- Docker / Kubernetes
-- TypeScript / JavaScript
+- Python / Selenium / Pytest
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9a95d883-505f-4dba-a30c-bbeb4235d875/thumbnail" >
