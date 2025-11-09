@@ -17,7 +17,7 @@ Selenium + Pytest UI suite for the e-commerce site covering admin login, add/sea
 Uses Page Object Model, explicit waits, and data-driven tests.
 
 🐍 **[BookBot](https://github.com/kravvat/bookbot)**  
-Python CLI that scans `.txt` books to count words and analyze character frequency. Highlights clean code and real-world file parsing.
+Python CLI that scans books to count words and analyze character frequency. Highlights clean code and real-world file parsing.
 
 🐘 **[Movie Theater Database Design](https://github.com/kravvat/movie-theater-database-design)**  
 Relational schema with real-world DDL, DML, and DQL usage. Focused on data validation, structure, and logic.
