@@ -4,7 +4,7 @@
 
 💡 Passionate about code that works, tests that catch, and data that makes sense 
 
-- ISTQB-certified QA Engineer with 2+ years of hands-on experience in manual testing, REST API and SQL databases in Agile/Scrum environments 
+- ISTQB-certified QA Engineer with 3+ years of hands-on experience in manual testing, REST API and SQL databases in Agile/Scrum environments 
 - Previously 4+ years in GameDev, bringing strong collaboration in international teams, rigorous version control and disciplined delivery 
 - Currently building Python skills to introduce Selenium automation on real projects 
 
