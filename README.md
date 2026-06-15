@@ -12,8 +12,9 @@
 
 ## 🗂 Featured Projects
 
-⚡ **[Pokedex](https://github.com/kravvat/pokedex)**
-TypeScript CLI app powered by PokeAPI. Features an interactive REPL, command registry, API caching, Pokemon exploration, catching, inspection, and local Pokedex state.
+⚡ **[Pokedex](https://github.com/kravvat/pokedex)**  
+TypeScript CLI app powered by PokeAPI.  
+Features an interactive REPL, command registry, API caching, Pokemon exploration, catching, inspection, and local Pokedex state.
 
 🐍 **[nopCommerce Test Automation](https://github.com/kravvat/nopcommerce-automation)**  
 Selenium + Pytest UI suite for the e-commerce site covering admin login, add/search customer, and wishlist.  
