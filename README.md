@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Kacper (Casper)
 
-🔍 Junior QA Automation Engineer | ISTQB CTFL 
+🔍 QA Engineer | ISTQB CTFL | Manual & Automation Testing
 
-💡 Passionate about code that works, tests that catch, and data that makes sense 
+💡 Passionate about reliable software, tests that catch, and automation that supports quality
 
-- ISTQB-certified QA Engineer with 3+ years of hands-on experience in manual testing, REST API and SQL databases in Agile/Scrum environments 
-- Previously 4+ years in GameDev, bringing strong collaboration in international teams, rigorous version control and disciplined delivery 
-- Currently building Python skills to introduce Selenium automation on real projects 
+* ISTQB-certified QA Engineer with 3+ years of hands-on experience in manual testing, REST API testing, and SQL databases in Agile/Scrum environments
+* Currently working as a Junior QA Automation Engineer, combining manual testing, BDD test automation, and AI-assisted QA workflows
+* Actively developing TypeScript skills as a foundation for Playwright-based test automation
+* Previously 4+ years in GameDev, bringing strong collaboration in international teams
 
 ---
 
@@ -17,8 +18,8 @@ TypeScript CLI app powered by PokeAPI.
 Features an interactive REPL, command registry, API caching, Pokemon exploration, catching, inspection, and local Pokedex state.
 
 🐍 **[nopCommerce Test Automation](https://github.com/kravvat/nopcommerce-automation)**  
-Selenium + Pytest UI suite for the e-commerce site covering admin login, add/search customer, and wishlist.  
-Uses Page Object Model, explicit waits, and data-driven tests.
+Selenium + Pytest UI suite for an e-commerce site covering admin and customer workflows.  
+Uses Page Object Model, explicit waits, data-driven tests, logging, HTML reports with screenshots, and Jenkins smoke runs.
 
 🐍 **[BookBot](https://github.com/kravvat/bookbot)**  
 Python CLI that scans books to count words and analyze character frequency. Highlights clean code and real-world file parsing.
@@ -30,21 +31,23 @@ Relational schema with real-world DDL, DML, and DQL usage. Focused on data valid
 
 ## 📜 Certifications
 
-- ISTQB Certified Tester Foundation Level 
-- Google Cybersecurity Professional Certificate 
-- Microsoft MTA: Security, Databases, Software Development, HTML5
-- Boot.dev: Backend Developer Path *(in progress)*  
-  [boot.dev/u/kravvat](https://www.boot.dev/u/kravvat)  
+* ISTQB Certified Tester Foundation Level
+* Google Cybersecurity Professional Certificate
+* Microsoft MTA: Security, Databases, Software Development, HTML5
+* Boot.dev: Backend Developer Path *(in progress)*  
+  [boot.dev/u/kravvat](https://www.boot.dev/u/kravvat)
 
 ---
 
 ## 📚 Currently Learning
 
-Backend architecture and development practices using:
-- Git
-- SQL
-- Linux
-- Python / Selenium / Pytest
+Test automation and development fundamentals using:
+
+* GitLab CI/CD
+* TypeScript / Node.js
+* C# / SpecFlow / BDD
+* Python / Selenium / Pytest
+* Playwright-based test automation
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9a95d883-505f-4dba-a30c-bbeb4235d875/thumbnail" >
@@ -54,9 +57,9 @@ Backend architecture and development practices using:
 
 ## 🔗 Connect with me
 
-- ⚔️ Boot.dev: [kravvat](https://www.boot.dev/u/kravvat)  
-- 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)  
-- 📫 Email: kacperstec3d@gmail.com  
+* ⚔️ Boot.dev: [kravvat](https://www.boot.dev/u/kravvat)
+* 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)
+* 📫 Email: [kacperstec3d@gmail.com](mailto:kacperstec3d@gmail.com)
 
 ---
 
