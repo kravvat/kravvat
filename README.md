@@ -4,9 +4,9 @@
 
 💡 Passionate about reliable software, tests that catch, and automation that supports quality
 
-* ISTQB-certified QA Engineer with 3+ years of hands-on experience in manual testing, REST API testing, and SQL databases in Agile/Scrum environments
+* ISTQB-certified QA Engineer with 3+ years of hands-on experience in manual & automation testing
 * Currently working as a Junior QA Automation Engineer, combining manual testing, BDD test automation, and AI-assisted QA workflows
-* Actively developing TypeScript skills as a foundation for Playwright-based test automation
+* Actively developing TypeScript & Playwright skills
 * Previously 4+ years in GameDev, bringing strong collaboration in international teams
 
 ---
