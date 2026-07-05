@@ -43,11 +43,9 @@ Relational schema with real-world DDL, DML, and DQL usage. Focused on data valid
 
 Test automation and development fundamentals using:
 
-* GitLab CI/CD
-* TypeScript / Node.js
-* C# / SpecFlow / BDD
-* Python / Selenium / Pytest
-* Playwright-based test automation
+* TypeScript / Playwright
+* C# / Selenium / SpecFlow / Gherkin
+* GitHub Actions / GitLab Pipelines
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/9a95d883-505f-4dba-a30c-bbeb4235d875/thumbnail" >
